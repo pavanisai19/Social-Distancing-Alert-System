@@ -6,3 +6,7 @@ This circuit is an example of a Social distancing Alert system that detects the 
 ![Social Distancing Alert System](https://user-images.githubusercontent.com/61875771/129246675-1fe4056d-0603-4214-96e5-10ce6e52a34c.png)
 
 
+![Components](https://user-images.githubusercontent.com/61875771/129247412-5bbfb9a9-368c-4c23-af0d-a3ee1f4d73cc.png)
+
+
+
